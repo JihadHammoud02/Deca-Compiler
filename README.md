@@ -1,4 +1,4 @@
-Deca Language Compiler Project
+## Deca Language Compiler Project
 
 This project, undertaken over the course of one month at university, involved a team of four members, including myself. Together, we developed a compiler for the Deca language using Java.
 Overview
@@ -12,6 +12,6 @@ Contextual Development: In this part, we worked on enhancing the abstract syntax
 
 Code Generation:  Involved generating executable files in Assembly language.
 
-Management Approach
+## Management Approach
 
 We adopted the agile methodology throughout the project, organizing our work into sprints lasting one week each. At the conclusion of each sprint, we delivered a tangible output.
